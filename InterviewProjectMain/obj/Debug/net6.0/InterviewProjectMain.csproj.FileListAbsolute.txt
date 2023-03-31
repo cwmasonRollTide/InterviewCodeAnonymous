@@ -1,0 +1,15 @@
+C:\Users\Connor\projects\InterviewCodeAnonymous\InterviewProjectMain\bin\Debug\net6.0\InterviewProjectMain.exe
+C:\Users\Connor\projects\InterviewCodeAnonymous\InterviewProjectMain\bin\Debug\net6.0\InterviewProjectMain.deps.json
+C:\Users\Connor\projects\InterviewCodeAnonymous\InterviewProjectMain\bin\Debug\net6.0\InterviewProjectMain.runtimeconfig.json
+C:\Users\Connor\projects\InterviewCodeAnonymous\InterviewProjectMain\bin\Debug\net6.0\InterviewProjectMain.dll
+C:\Users\Connor\projects\InterviewCodeAnonymous\InterviewProjectMain\bin\Debug\net6.0\InterviewProjectMain.pdb
+C:\Users\Connor\projects\InterviewCodeAnonymous\InterviewProjectMain\obj\Debug\net6.0\InterviewProjectMain.csproj.AssemblyReference.cache
+C:\Users\Connor\projects\InterviewCodeAnonymous\InterviewProjectMain\obj\Debug\net6.0\InterviewProjectMain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Connor\projects\InterviewCodeAnonymous\InterviewProjectMain\obj\Debug\net6.0\InterviewProjectMain.AssemblyInfoInputs.cache
+C:\Users\Connor\projects\InterviewCodeAnonymous\InterviewProjectMain\obj\Debug\net6.0\InterviewProjectMain.AssemblyInfo.cs
+C:\Users\Connor\projects\InterviewCodeAnonymous\InterviewProjectMain\obj\Debug\net6.0\InterviewProjectMain.csproj.CoreCompileInputs.cache
+C:\Users\Connor\projects\InterviewCodeAnonymous\InterviewProjectMain\obj\Debug\net6.0\InterviewProjectMain.dll
+C:\Users\Connor\projects\InterviewCodeAnonymous\InterviewProjectMain\obj\Debug\net6.0\refint\InterviewProjectMain.dll
+C:\Users\Connor\projects\InterviewCodeAnonymous\InterviewProjectMain\obj\Debug\net6.0\InterviewProjectMain.pdb
+C:\Users\Connor\projects\InterviewCodeAnonymous\InterviewProjectMain\obj\Debug\net6.0\InterviewProjectMain.genruntimeconfig.cache
+C:\Users\Connor\projects\InterviewCodeAnonymous\InterviewProjectMain\obj\Debug\net6.0\ref\InterviewProjectMain.dll
